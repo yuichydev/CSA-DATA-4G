@@ -2,8 +2,8 @@
 
 ## Có, sẽ có các giới hạn khi sử dụng
 
-* Mất thông báo hay dễ bị load lại mạng (Do data nền chỉ hoạt động khi bạn mở ứng dụng, việc bạn tắt ứng dụng thì data nền cũng sẽ bị dừng để không hao hụt data của nhà mạng theo chính sách) _(chỉ bị ở **IOS** do tính chất app IOS tự động tối ưu khi ẩn, **ANDROID** gần như dùng bình thường)_
-* Tốc độ tuỳ khu vực (Các khu vực được hỗ trợ tốt hơn trong gói nền của nhà mạng thì mạng Data này sẽ mạnh hơn)
+* Lưu lượng DATA VPN sẽ **phụ thuộc** vào DATA nền mà bạn đang sử dụng. Ví dụ nếu bạn lấy nền **Liên Quân** sẽ được **1Gb data** chơi game liên quân MỖI NGÀY, thì data VPN có thể sử dụng cũng sẽ là **1 Gb**&#x20;
+* Tốc độ tuỳ khu vực (Vì data nền từ nhà mạng được hỗ trợ mạnh / yếu tùy khu vực)
 * Phụ thuộc server do Web Data cài đặt (Server mạnh yếu, tốc độ băng thông, lưu lượng truy cập người dùng, khu vực vận tải....)
 
 Tất nhiên vấn đề này, [CSA DATA 4G](https://csadata4g.me/) cũng đã rất cố gắng để đặt các máy chủ SERVER trải khắp **BẮC - TRUNG - NAM**, cũng như **TỐI ƯU TỐI ĐA KHẢ NĂNG TRUY CẬP** của bạn đến với máy chủ!!
