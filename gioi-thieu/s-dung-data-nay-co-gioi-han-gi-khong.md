@@ -2,7 +2,7 @@
 
 ## Có, sẽ có các giới hạn khi sử dụng
 
-* Lưu lượng DATA VPN sẽ **phụ thuộc** vào DATA nền mà bạn đang sử dụng. Ví dụ nếu bạn lấy nền **Liên Quân** sẽ được **1Gb data** chơi game liên quân MỖI NGÀY, thì data VPN có thể sử dụng cũng sẽ là **1 Gb**&#x20;
+* Lưu lượng DATA VPN sẽ **phụ thuộc** vào [_**DATA nền**_](../huong-dan/dang-ky-nen-cho-sim.md) mà bạn đang sử dụng. Ví dụ nếu bạn lấy nền **Liên Quân** sẽ được **1Gb data** chơi game liên quân **MỖI NGÀY**, thì data VPN có thể sử dụng cũng sẽ là **1 Gb** mỗi ngày. Khi hết nền thì bạn sẽ **KHÔNG THỂ SỬ DỤNG ĐƯỢC TIẾP**
 * Tốc độ tuỳ khu vực (Vì data nền từ nhà mạng được hỗ trợ mạnh / yếu tùy khu vực)
 * Phụ thuộc server do Web Data cài đặt (Server mạnh yếu, tốc độ băng thông, lưu lượng truy cập người dùng, khu vực vận tải....)
 

@@ -1,4 +1,7 @@
 ---
+description: >-
+  Cần có tài khoản website để bạn có thể tự quản lý dịch vụ, việc tự quản lý sẽ
+  tốt hơn việc mua File mạng từ các seller trên mạng
 cover: ../.gitbook/assets/banner dang ky.png
 coverY: 0
 layout:
@@ -17,11 +20,11 @@ layout:
     visible: true
 ---
 
-# ĐĂNG KÝ TÀI KHOẢN WEBSITE
+# Bước 1: ĐĂNG KÝ TÀI KHOẢN WEBSITE
 
 ## Website chính thức: [CSA DATA 4G](https://csadata4g.me/) - [https://csadata4g.me](https://csadata4g.me/)
 
-> Link Đăng Ký Nhanh: [https://csadata4g.me/#/register?code=csadata4g\_xhEM70pq](https://csadata4g.me/#/register?code=csadata4g\_xhEM70pq)
+> Link Đăng Ký Nhanh: [https://csadata4g.me/#/register?code=csadata4g\_xhEM70pq](https://csadata4g.me/#/register?code=csadata4g_xhEM70pq)
 
 ### Bước 1: Truy cập web [https://csadata4g.me](https://csadata4g.me/) , sau đó bấm vào mục "ĐĂNG KÝ"
 
@@ -29,7 +32,7 @@ layout:
 
 Hoặc bạn có thể bấm nhanh vào link đăng ký sau:
 
-&#x20;[https://csadata4g.me/#/register?code=csadata4g\_xhEM70pq](https://csadata4g.me/#/register?code=csadata4g\_xhEM70pq)
+&#x20;[https://csadata4g.me/#/register?code=csadata4g\_xhEM70pq](https://csadata4g.me/#/register?code=csadata4g_xhEM70pq)
 
 ### Bước 2: Điền thông tin đăng ký
 

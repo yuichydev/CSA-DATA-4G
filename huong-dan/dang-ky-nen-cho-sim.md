@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# ĐĂNG KÝ NỀN CHO SIM
+# Bước 2: ĐĂNG KÝ NỀN CHO SIM
 
 ## CÁCH ĐĂNG KÝ NỀN
 
@@ -45,11 +45,7 @@ Nên đăng ký gói THÁNG để tối ưu tiền cũng như duy trì ổn đ�
 _Ghi chú: Khách hàng khi đăng ký và gia hạn dịch vụ sẽ nhận 1GB Data/ngày/chu kỳ cước._
 {% endhint %}
 
-|      Loại gói     | Tên gói |  Cú pháp đăng ký |    Mức giá    |
-| :---------------: | :-----: | :--------------: | :-----------: |
-|  Gói gia hạn ngày |   LQ1N  |   LQ1N gửi 9748  |   2000đ/ngày  |
-|  Gói gia hạn tuần |   LQ7N  |   LQ7N gửi 9748  |  10.000đ/tuần |
-| Gói gia hạn tháng |  LQ30N  | DK LQ30 gửi 9748 | 40.000đ/tháng |
+<table data-full-width="false"><thead><tr><th align="center">Loại gói</th><th align="center">Tên gói</th><th align="center">Cú pháp đăng ký</th><th align="center">Mức giá</th></tr></thead><tbody><tr><td align="center">Gói gia hạn ngày</td><td align="center">Liên Quân Ngày</td><td align="center">LQ1 gửi 9748</td><td align="center">2000đ/ngày</td></tr><tr><td align="center">Gói gia hạn tuần</td><td align="center">Liên Quân Tuần</td><td align="center">LQ7 gửi 9748</td><td align="center">10.000đ/tuần</td></tr><tr><td align="center">Gói gia hạn tháng</td><td align="center">Liên Quân Tháng</td><td align="center">LQ30 gửi 9748</td><td align="center">40.000đ/tháng</td></tr></tbody></table>
 
 ### NỀN TIKTOK
 
@@ -68,14 +64,6 @@ _Ghi chú: Khách hàng khi đăng ký và gia hạn dịch vụ sẽ nhận 1GB
 | Gói gia hạn tháng |   T50K  | DK T50K gửi 191 | 30.000đ/tháng/50G |
 
 ***
-
-### NỀN YOUTUBE CHO SIM VINA
-
-| Loại gói          | Tên gói | Cú pháp đăng kí  | Mức giá       |
-| ----------------- | ------- | ---------------- | ------------- |
-| Gói gia hạn ngày  | YT1     | YT1 gửi 888      | 3.000đ/ngày   |
-| Gói gia hạn tuần  | YT7     | YT7 gửi 888      | 10.000đ/tuần  |
-| Gói gia hạn tháng | YT30    | YT30 gửi 888     | 30.000đ/tháng |
 
 ### NỀN MXH CHO SIM VIETTEL KHÔNG GIỚI HẠN
 

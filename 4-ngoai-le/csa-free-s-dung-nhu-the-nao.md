@@ -4,7 +4,7 @@ Thông thường, các Website và các Group VPN Data sẽ chia sẻ mã QR ho�
 
 ## CẦN ĐẢM BẢO RẰNG BẠN ĐÃ LẤY NỀN PHÙ HỢP
 
-* Hiện tại có 2 NỀN hay được sử dụng: Liên Quân và Tiktok. Bạn cần biết rằng File share đang sử dụng nền nào để đảm bảo chạy được nhé ([_**Hướng dẫn lấy nền ở ĐÂY**_](../2-huong-dan/dang-ky-nen-cho-sim.md))
+* Hiện tại có 2 NỀN hay được sử dụng: Liên Quân và Tiktok. Bạn cần biết rằng File share đang sử dụng nền nào để đảm bảo chạy được nhé ([_**Hướng dẫn lấy nền ở ĐÂY**_](../huong-dan/dang-ky-nen-cho-sim.md))
 * Bạn có thể tự đổi SNI phù hợp với nền sau khi nhận Server về app
 
 ## LIÊN KẾT SERVER (Link Sub)

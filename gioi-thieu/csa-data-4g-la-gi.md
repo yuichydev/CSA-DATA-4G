@@ -2,9 +2,10 @@
 
 ## CSA DATA 4G LÀ GÌ?
 
-* CSA DATA 4G là nền tảng dịch vụ cung cấp data 4G cho bạn (Hỗ trợ nền tảng SIM Viettel Vina tại Việt Nam, SIM Softbank Povo Linemo tại Nhật Bản)
-* CSA DATA 4G sẽ chạy thông qua VPN (Virtual Private Network) - Đây là một công nghệ cho phép kết nối mạng riêng tư qua mạng công cộng, như internet. VPN giúp bảo vệ thông tin cá nhân và dữ liệu truyền tải trên internet bằng cách tạo ra một kênh truyền tải mã hóa an toàn giữa thiết bị của bạn và máy chủ VPN.
+* CSA DATA 4G là nền tảng dịch vụ **cung cấp data 4G/5G giá rẻ** sử dụng cho các SIM **Viettel Vinaphone** tại Việt Nam, SIM **Softbank Line Mobile Povo** tại Nhật Bản
+* CSA DATA 4G sẽ chạy thông qua VPN (Virtual Private Network) - Server được cài đặt để giúp chuyển hóa data [NỀN](../huong-dan/dang-ky-nen-cho-sim.md) thành data thường sử dụng
 * CSA DATA 4G KHÔNG PHẢI LÀ **HACK** - mà là chạy dịch vụ thông qua dịch vụ của nhà mạng bạn đang sử dụng - nên phụ thuộc nhiều vào dịch vụ của sim bạn đang được hỗ trợ (cũng như tại khu vực của bạn)
+* Có thể sử dụng DATA CSA nhưng 1 VPN, hoặc tăng tốc mạng như 1.1.1.1 hoặc Google Cloud (dùng chung với Wifi)
 
 {% hint style="info" %}
 Ví dụ: Bạn đăng ký gói nền LQ, giúp bạn có data truy cập Game Liên Quân không giới hạn dung lượng. Thì với Data này sẽ "thông qua" để "data truy cập" từ Game Liên Quân được sử dụng tại các ứng dụng hay truy cập khác như mạng bình thường
