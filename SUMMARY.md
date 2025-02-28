@@ -15,15 +15,15 @@
 * [Bước 1: ĐĂNG KÝ TÀI KHOẢN WEBSITE](huong-dan/dang-ky-tai-khoan-website.md)
 * [Bước 2: ĐĂNG KÝ NỀN CHO SIM](huong-dan/dang-ky-nen-cho-sim.md)
 * [Bước 3: ĐỒNG BỘ VỀ MÁY ĐỂ SỬ DỤNG](huong-dan/dong-bo-ve-may-de-su-dung.md)
-* [HƯỚNG DẪN PHÁT WIFI BẰNG PROXY (IOS)](huong-dan/huong-dan-phat-wifi-bang-proxy-ios.md)
+* [HƯỚNG DẪN PHÁT WIFI BẰNG PROXY (Shadowrocket)](huong-dan/huong-dan-phat-wifi-bang-proxy-shadowrocket.md)
 * [HƯỚNG DẪN PHÁT WIFI BẰNG SHADOWROCKET (IOS)](huong-dan/huong-dan-phat-wifi-bang-shadowrocket-ios.md)
 * [HƯỚNG DẪN CẬP NHẬT SUBCRIBERS](huong-dan/huong-dan-cap-nhat-subcribers.md)
 
-## 3️⃣ Chính sách
+## 3️⃣ Chính sách <a href="#chinh-sach" id="chinh-sach"></a>
 
-* [CHÍNH SÁCH & ĐIỀU KHOẢN](3-chinh-sach/dieu-khoan.md)
+* [CHÍNH SÁCH & ĐIỀU KHOẢN](chinh-sach/chinh-sach-va-dieu-khoan.md)
 
-## 4️⃣ NGOẠI LỀ
+## 4️⃣ NGOẠI LỀ <a href="#ngoai-le" id="ngoai-le"></a>
 
-* [SUB ĐƯỢC CHIA SẺ SỬ DỤNG NHƯ THẾ NÀO](4-ngoai-le/csa-free-s-dung-nhu-the-nao.md)
-* [CƠ CHẾ SERVER](4-ngoai-le/server.md)
+* [SUB ĐƯỢC CHIA SẺ SỬ DỤNG NHƯ THẾ NÀO](ngoai-le/cach-su-dung-sub-csadata4g.md)
+* [CƠ CHẾ SERVER](ngoai-le/co-che-server.md)

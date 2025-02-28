@@ -86,7 +86,9 @@ Nền TikTok còn có thể đăng ký gói T30H - Dạng gói trải nghiệm c
 
 ***
 
-{% hint style="info" %}
+## CÁCH KIỂM TRA NỀN
+
+{% hint style="warning" %}
 Có 2 cách, thông thường kiểm tra cách 1 đôi khi nó sẽ **KHÔNG CHUẨN** - hiển thị nhưng không hoạt động, hãy luôn kiểm tra bằng cách 2 để đảm bảo rằng nền của bạn **THẬT SỰ HOẠT ĐỘNG**
 {% endhint %}
 
