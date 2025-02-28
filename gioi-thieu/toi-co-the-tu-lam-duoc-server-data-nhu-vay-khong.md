@@ -8,4 +8,6 @@ Nhưng dù bạn tự làm thì server do bạn làm cũng sẽ không bằng đ
 
 {% hint style="success" %}
 Tham gia chương trình CTV - mức hoa hồng giao động 30-50%, hoặc đơn giản kiếm thêm thu nhập từ 20% khi bạn là người dùng bình thường
+
+Chi tiết: [https://bit.ly/makemoneycsa](https://bit.ly/makemoneycsa)
 {% endhint %}

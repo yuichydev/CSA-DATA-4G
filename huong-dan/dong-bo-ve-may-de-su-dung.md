@@ -1,4 +1,5 @@
 ---
+description: Sử dụng các app dưới để đồng bộ server về máy và sử dụng
 cover: ../.gitbook/assets/HƯỚNG DẪN.png
 coverY: 0
 layout:
@@ -17,7 +18,7 @@ layout:
     visible: true
 ---
 
-# ĐỒNG BỘ VỀ MÁY ĐỂ SỬ DỤNG
+# Bước 3: ĐỒNG BỘ VỀ MÁY ĐỂ SỬ DỤNG
 
 ## IOS
 
@@ -49,10 +50,7 @@ Về cách đồng bộ của Quanx, chỉ cần lên web bấm đồng bộ v�
 
 ## ANDROID
 
-* Copy link sub sau khi mua gói và làm như video hướng dẫn
-* Lưu ý: làm theo từng bước để đảm bảo server chạy chuẩn nhất: Cài đặt app V2rayng -> Đồng bộ server về App -> Cập nhật server và sử dụng
 
-{% embed url="https://youtu.be/HBPRsFF5kgQ?si=gFuHsNPti4rqvB9s" %}
 
 ## Windows
 

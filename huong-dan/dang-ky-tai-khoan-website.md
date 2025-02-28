@@ -42,7 +42,7 @@ Bước 3: Đăng nhập tài khoản email - mật khẩu để truy cập web 
 
 <figure><img src="../.gitbook/assets/3.jpg" alt="" width="443"><figcaption></figcaption></figure>
 
-Sau khi tạo tài khoản thành công, bạn sẽ được tặng gói FREE 10Gb trong vòng 100 Ngày, mỗi tháng vào ngày 1 hằng tháng, bạn sẽ được reset data để có tiếp 10Gb để sử dụng
+
 
 {% hint style="success" %}
 Bạn có thể mua gói Free hày tại mục [Mua gói dịch vụ](https://csadata4g.me/#/plan) để có gói Free 1 năm, nhận MỖI NGÀY 1Gb DATA
@@ -55,11 +55,11 @@ _**Thông tin gói Free**_
 * Hệ thống server: Việt Nam & Quốc Tế
 * Cổng dịch vụ: TCP - Vmess/Webstocket
 * Giá: 0đ
-
-
-
+* ID Apple: Hỗ trợ 1 lượt gói "Nhận ID Apple"
 * Hỗ trợ Thiết Bị: 1 Thiết Bị
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Ngoài ra có rất nhiều gói dịch vụ khác, bạn có thể tham khảo!!
 
