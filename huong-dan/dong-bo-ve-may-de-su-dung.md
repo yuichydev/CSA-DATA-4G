@@ -50,7 +50,9 @@ Về cách đồng bộ của Quanx, chỉ cần lên web bấm đồng bộ v�
 
 ## ANDROID
 
+## HƯỚNG DẪN ĐỒNG BỘ APP V2RAYNG
 
+{% embed url="https://docs.csadata4g.me/cai-dat-v2rayng" fullWidth="false" %}
 
 ## Windows
 
