@@ -20,7 +20,7 @@ layout:
 
 # Bước 3: ĐỒNG BỘ VỀ MÁY ĐỂ SỬ DỤNG
 
-## IOS
+IOS
 
 * Sing-Box: App Free - Dễ sử dụng, nhưng đôi khi nó không hoạt động ngon lắm (Do Core nó hơi khó hoạt động)
 
@@ -50,11 +50,15 @@ Về cách đồng bộ của Quanx, chỉ cần lên web bấm đồng bộ v�
 
 ## ANDROID
 
-## HƯỚNG DẪN ĐỒNG BỘ APP V2RAYNG
+* App V2rayng hỗ trợ tiếng Việt và dễ sử dụng
 
-{% embed url="https://docs.csadata4g.me/cai-dat-v2rayng" fullWidth="false" %}
+{% content-ref url="https://app.gitbook.com/o/EEYExRKNi2rEZp834iEf/s/QDXOmaQ4NTCC79QY8YEu/" %}
+[HƯỚNG DẪN ĐỒNG BỘ APP V2RAYNG](https://app.gitbook.com/o/EEYExRKNi2rEZp834iEf/s/QDXOmaQ4NTCC79QY8YEu/)
+{% endcontent-ref %}
 
 ## Windows
+
+* Windows cần phát wifi lên mới sử dụng được nhé
 
 {% content-ref url="https://app.gitbook.com/o/EEYExRKNi2rEZp834iEf/s/67h2qSLQrFP0DMT5d51N/" %}
 [HƯỚNG DẪN SỬ DỤNG TRÊN WINDOWS](https://app.gitbook.com/o/EEYExRKNi2rEZp834iEf/s/67h2qSLQrFP0DMT5d51N/)
