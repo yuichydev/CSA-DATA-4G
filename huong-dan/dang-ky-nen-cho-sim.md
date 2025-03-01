@@ -64,7 +64,7 @@ _Ghi chú: Khách hàng khi đăng ký và gia hạn dịch vụ sẽ nhận 1GB
 | Gói gia hạn tuần  |  T15KN gửi 191  |   HUY T15KN gửi 191 | 15.000đ/tuần/25GB |
 | Gói gia hạn tháng |   T50K gửi 191  |   HUY T50K gửi 191  | 50.000đ/tháng/50G |
 
-Nền TikTok còn có thể đăng ký gói T30H - Dạng gói trải nghiệm của T50
+Nền TikTok còn có thể đăng ký gói T30H - Dạng gói trải nghiệm của T50K
 
 #### HƯỚNG DẪN ĐĂNG KÝ – NHANH, GỌN, DỄ DÀNG - TIKOK T30H
 
@@ -106,21 +106,19 @@ Có 2 cách, thông thường kiểm tra cách 1 đôi khi nó sẽ **KHÔNG CHU
 
 ***
 
-## CÁCH SỬA LỖI KHI NỀN BỊ LỖI
+## CÁCH FIX KHI NỀN BỊ LỖI
 
-### Cách 1: **HỦY NỀN ĐĂNG KÝ LẠI**
+### Cách 1: **CHECK XEM IP CÓ VÀO DANH SÁCH BỊ BLOCK HAY KHÔNG??**
 
-Bạn hãy yên tâm nếu hạn đăng ký của bạn vẫn còn _(Ví dụ bạn đăng ký dịch vụ vào ngày 15/12 - đã bị từ tiền do đăng ký nền - và hôm nay ngày 19/12)_ thì bạn **HỦY NỀN**, sau đó **ĐĂNG KÝ LẠI**, nó sẽ **KHÔNG TỪ THÊM TIỀN** _(Nền tiktok khi hủy sẽ vẫn sử dụng đến hết chu kỳ, nên cách này không áp dụng cho TikTok)_
+Đối với trường hợp này, anh em tải app **Net Analyzer** trên **Appstore (IOS)** hoặc **CH Play (ANDROID)**. Sau đó tắt hẳn **WIFI** và bật dữ liệu mạng **4G** của bạn lên. Check kỹ dòng **Default Gateway IP** hoặc **IP Address (DATA SIM INFORMATION)**:&#x20;
+
+<figure><img src="../.gitbook/assets/z6363879407468_f19b14c0be77f2b8e0f890e59d67ede8.jpg" alt=""><figcaption><p>Net Analyzer</p></figcaption></figure>
 
 {% hint style="info" %}
-Bạn có thể tải ứng dụng **My Viettel** về để kiểm tra lịch sử giao dịch của sim, xem rằng khi hủy nền và đăng ký lại bạn có bị mất thêm tiền hay không!
+**Nếu IP của bạn không thuộc các IP sau đây: 6. (Miền Bắc), 33. (Miền Trung) và 214. (Miền Nam) thì các bạn bật tắt máy bay 2-3 lần để gacha lại khi nào đúng thì dừng nhé!!!**
 {% endhint %}
 
-### Cách 2: Khởi động lại máy - Bật chế độ máy bay vài lần
-
-Đôi khi thiết bị của bạn bị LAG, dùng máy này không hoạt động nhưng nhét sim qua máy khác vẫn lên, thì hãy thử việc khởi động lại máy hoặc Bật - Tắt chế độ máy bay vài lần
-
-### Cách 3: Gọi Tổng Đài Hỗ Trợ của Viettel
+### Cách 2: Gọi Tổng Đài Hỗ Trợ của Viettel
 
 Call ngay 18008098 - Nhấn phím 5 để gặp trực tiếp hỗ trợ viên (Gọi Không Mất Phí)
 
