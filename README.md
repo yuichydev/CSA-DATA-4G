@@ -3,7 +3,7 @@
 ## CHUẨN BỊ
 
 * Link tải app: [**Shadowrocket** ](https://apps.apple.com/vn/app/shadowrocket/id932747118)_(IOS)_
-* Tài khoản web [**DATA CSA 4G**](https://csadata4g.me) _(Bạn có thể đăng ký mới tại_ [_**ĐÂY**_](https://csadata4g.me/#/register?code=csadata4g\_xhEM70pq)_)_
+* Tài khoản web [**DATA CSA 4G**](https://csadata4g.me) _(Bạn có thể đăng ký mới tại_ [_**ĐÂY**_](https://csadata4g.me/#/register?code=csadata4g_xhEM70pq)_)_
 
 ## BẮT ĐẦU
 
@@ -42,6 +42,18 @@
 9. Sau khi cấp quyền xong, bấm vào **Kiểm Tra Kết Nối** để hiển thị được **TỐC ĐỘ ỔN ĐỊNH** _(Không phải mạnh yếu)_, càng thấp nghĩa là máy bạn kết nối đến server đó càng ổn
 
 <figure><img src=".gitbook/assets/10.jpg" alt="" width="443"><figcaption></figcaption></figure>
+
+## Hướng dẫn bật thông báo cho Shadowrocket
+
+**Vào Cài đặt → Đường hầm** ![✅](https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png) **Bật dòng 1, dòng 2 và dòng 4 – Vậy là đủ!**
+
+{% hint style="info" %}
+![📢](https://static.xx.fbcdn.net/images/emoji.php/v9/t39/1/16/1f4e2.png) **Lưu ý:** ![📱](https://static.xx.fbcdn.net/images/emoji.php/v9/t57/1/16/1f4f1.png) **iOS 17 trở lên mới hiển thị đầy đủ các tùy chọn.**
+
+&#x20;![🔔](https://static.xx.fbcdn.net/images/emoji.php/v9/t30/1/16/1f514.png) **Không đảm bảo 100% thông báo ổn định – Nếu lỗi, hãy bật chế độ máy bay hoặc khởi động lại thiết bị để tối ưu.**
+{% endhint %}
+
+<figure><img src=".gitbook/assets/483470615_1721346035430350_5644735335088563_n.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## CHÚ Ý
 
